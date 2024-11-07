@@ -22,7 +22,7 @@ In my free time, I like to play tennis :tennis: and watch soccer games :soccer: 
 
 :bookmark_tabs: Papers and Presentations
 -----
-- **Jonghyun Song**, Cheyon Jin, Wenlong Zhao, Andrew McCallum, Jay-Yoon Lee, *Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval*, In EMNLP 2024 (Main)/Spotlight Talk at Repl4NLP workshop at ACL 2024
+- **Jonghyun Song**, Cheyon Jin, Wenlong Zhao, Andrew McCallum, Jay-Yoon Lee, *Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval*, In EMNLP 2024 (Main)/Spotlight Talk at Repl4NLP workshop in ACL 2024
 - **Jonghyun Song**, Eunyi Lyou, *Redefining Information Extraction from Visually Rich Documents as Token Classification*, In IJCAI 2024 Competition of Visually Rich Form Document Intelligence and Understanding (VRDIU)
 
 🏆Honors and Awards 
