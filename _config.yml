@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Jonghyun (Jong) Song"
 description              : &description "Research Interests: Information Retrieval and Multi-modal Lanugage Models"
 url                      : https://jongsong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "yc-song.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://yc-song.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/yc-song"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
