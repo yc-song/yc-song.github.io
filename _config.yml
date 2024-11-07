@@ -21,7 +21,7 @@ repository               : "https://github.com/yc-song"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ps.png"
+  avatar           : "profile.png"
   name             : "Jonghyun (Jong) Song"
   pronouns         : "he/him"  
   bio              : "Research Interests: Information Retrieval and Multi-modal Lanugage Models"
