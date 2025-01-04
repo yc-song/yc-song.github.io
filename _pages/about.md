@@ -6,19 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I am actively looking for Research Internship Positions in Korea :kr:, United States :us:, and Germany :de:**
-
 Hello! I’m Jonghyun (Jong) Song, a Ph.D. student in Data Science at Seoul National University, advised by [Professor Jay-Yoon Lee](https://www.skiml.snu.ac.kr/). Before joining GSDS, I was trained to be a junior engineer at the Department of Mechanical and Aerospace Engineering of the same school ([Dept. of MAE, SNU](https://me.snu.ac.kr/)).
 
-My primary research interests include **Natural Language Processing, Information Retrieval (IR), and Multi-modal Language Models.** I’m particularly fascinated by language model embeddings—the idea of encoding vast information into numerical representations is inspiring. In this regard, I’m exploring how to optimize these embeddings for downstream tasks, specifically focusing on efficient modeling of query-document and document-document interactions in IR systems. Also, I’m interested in advancing the reasoning capabilities of large language models for multi-modal tasks, enabling them to interpret and connect diverse data types more effectively. For more details, please refer to my [CV](https://yc-song.github.io/files/Jong_CV.pdf)
+My primary research interests include **Natural Language Processing, Information Retrieval (IR), and Multi-modal Language Models.** I’m particularly fascinated by language model embeddings—the idea of encoding vast information into numerical representations is inspiring. In this regard, I’m exploring how to optimize these embeddings for downstream tasks, specifically focusing on efficient modeling of query-document and document-document interactions in IR systems. Also, I’m interested in advancing the reasoning capabilities of large language models for multi-modal tasks, enabling them to interpret and connect diverse data types more effectively. For more details, please refer to my [CV](https://yc-song.github.io/files/Jong_CV.pdf).
 
 In my free time, I like to play tennis :tennis: and watch soccer games :soccer: (I'm a fan of 1. FSV MAINZ 05 in Bundesliga!)
 
 :newspaper: News
 -----
+- **Jan. '25** I have started my internship with the Hyper-Personalized Search Team at NAVER, the leading search engine in Korea!
 - **Nov. '24** Our paper *Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval* is accepted to [EMNLP 2024 Main](https://openreview.net/forum?id=on35SfGw1H&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2024%2FConference%2FAuthors%23your-submissions))!
 - **Aug. '24** I presented a spotlight paper talk at the ACL Workshop on Representation Learning for NLP ([Repl4NLP](https://sites.google.com/view/repl4nlp2024)) at ACL '24!
-- **Jul. '24** I won the second place in IJCAI 2024 Competition - [Visually Rich Form Document Intelligence and Understanding: Track A](https://www.kaggle.com/competitions/vrd-iu2024-tracka) (Team vipski)!
 
 :bookmark_tabs: Papers and Presentations
 -----
