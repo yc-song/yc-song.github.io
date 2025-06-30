@@ -16,8 +16,6 @@ My primary research interests include
 
 For more details, please refer to my [CV](https://yc-song.github.io/files/Jong_CV.pdf).
 
-In my free time, I like to play tennis :tennis: and watch soccer games :soccer: (I'm a fan of 1. FSV MAINZ 05 in Bundesliga!)
-
 :newspaper: News
 -----
 - **Jan. '25** I have started my internship with the Hyper-Personalized Search Team at NAVER, the leading search engine in Korea!
